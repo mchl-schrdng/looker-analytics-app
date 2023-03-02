@@ -4,7 +4,8 @@ This is a Streamlit application for visualizing Looker data with plotly graphs.
 ## Installation
 Clone the repository to your local machine.
 Install the required packages by running pip install -r requirements.txt in the terminal.
-Download your Looker logo image and save it as logo.png in the project directory.
+Download your logo image and save it as logo.png in the project directory.
+
 Set your Looker SDK environment variables in the code.
 
 ## Usage
