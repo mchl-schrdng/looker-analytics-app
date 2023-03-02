@@ -1,3 +1,4 @@
-looker-sdk>=4.0
-pandas
-streamlit
+streamlit==0.84.0
+plotly==5.5.0
+looker-sdk==4.0.0
+pillow==8.4.0
